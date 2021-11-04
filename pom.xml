@@ -8,7 +8,7 @@
     <version>1.2</version>
     <packaging>jar</packaging>
 
-    <name>Zmeika</name>
+    <name>Java Calculator</name>
     <url>http://maven.apache.org</url>
 
     <properties>
